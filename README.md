@@ -1,4 +1,4 @@
-# aws-analytics-exam-workspace
+# aws-data-analytics-exam-workspace
 
 ## TODO: fill in here
 
